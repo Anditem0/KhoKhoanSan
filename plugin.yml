@@ -1,0 +1,22 @@
+---
+name: KhoKhoangSanUI
+main: HauGM\Kho
+version: 2.4.0
+author: HauGM
+api: 4.0.0
+update: Ki
+
+commands:
+  kho:
+    description: "Mở Giao Diện Kho Khoáng Sản"
+    permission: kho.user
+permissions:
+  kho.user:
+    default: op
+    
+    
+    
+    #Plugin Được Code Bởi EdoGaming
+    #Plugin GUI Được Chuyển Thành UI Bởi HậuGm
+    #Plugin được update lên pm4 bởi Ki
+...
